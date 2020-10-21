@@ -2,14 +2,14 @@
 
 My portfolio is a page to introduce myself and my work to potential employers and customers.
 
-[Portfolio Page](https://raleighc.github.io/portfolio_02_redux/)
+[Portfolio Page](https://raleighc.github.io/portfolio_03-updated/)
 
 
 ## Usage
 This website consists of three pages:
-* [About Me](https://raleighc.github.io/portfolio_02_redux/index.html)
-* [Portfolio](https://raleighc.github.io/portfolio_02_redux/portfolio.html)
-* [Contact](https://raleighc.github.io/portfolio_02_redux/contact.html)
+* [About Me](https://raleighc.github.io/portfolio_03-updated/index.html)
+* [Portfolio](https://raleighc.github.io/portfolio_03-updated/portfolio.html)
+* [Contact](https://raleighc.github.io/portfolio_03-updated/contact.html)
 
 It presents my work and personal information as well as gives potential clients links to my social media and a way to contact me. It is coded in a responsive format ready for use on mobile and PC.
 Through a series of links in the navbar
